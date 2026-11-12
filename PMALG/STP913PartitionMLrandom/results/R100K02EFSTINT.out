@@ -1,0 +1,16 @@
+SECTION Comment
+Name "./instances/R100K01EFST.stp"
+Problem "SPG"
+Program "pbpuw"
+End
+
+SECTION Solutions
+End
+
+SECTION Run
+Threads 1
+Time 377
+Dual 0
+Primal 75.392760950272
+End
+

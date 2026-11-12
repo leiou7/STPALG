@@ -1,0 +1,1 @@
+#define SCIP_GITHASH "e9d280a398"
